@@ -26,7 +26,7 @@ class Testcaseses(unittest.TestCase):
 		cls.inst = app.operations()
 	def statrt_io():
 		pass
-	def dir_reatrt(self):
+	def dir_restart(self):
 		pass
 	def test_dir_restart(self):
 		pass
@@ -42,6 +42,7 @@ class Testcaseses(unittest.TestCase):
 		error="str1,str2, test case for add operation is failed"
 		self.assertEqual(exp,act,error)
 	def test_add_str1_10(self):
+		
 		exp=None
 		act=self.inst.add("str1",10)
 		error="str1, 10, test case for add operation is failed"

@@ -10,3 +10,9 @@ INFO:root:program ended
 2017-04-17 10:13:30,525->DEBUG->result=2
 2017-04-17 10:13:30,525->INFO->other statments in program
 2017-04-17 10:13:30,526->INFO->program ended
+2017-04-17 10:13:28,134->Error->program started
+2017-04-17 10:13:30,525->Error->a=12
+2017-04-17 10:13:30,525->Error->b=6
+2017-04-17 10:13:30,525->Error->result=2
+2017-04-17 10:13:30,525->Error->other statments in program
+2017-04-17 10:13:30,526->INFO->program ended
